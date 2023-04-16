@@ -4,7 +4,7 @@ App detects bad posture & blinking patterns, reminds you to take breaks, for hea
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Demo Video](https://img.youtube.com/vi/X1cxh6VUQko/0.jpg)](https://youtu.be/X1cxh6VUQko)
 
 ## Table of Contents
 - [Description](#description)
