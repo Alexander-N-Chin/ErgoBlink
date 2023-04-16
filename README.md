@@ -1,6 +1,7 @@
 # ErgoBlink
-![Application](https://github.com/Alexander-N-Chin/ErgoBlink/blob/main/good.png)
 App detects bad posture & blinking patterns, reminds you to take breaks, for healthy screen time habits.
+
+![Application](https://github.com/Alexander-N-Chin/ErgoBlink/blob/main/good.png)
 
 ## Demo Video
 
@@ -53,6 +54,7 @@ Nikhil Maraboyina (Github: nmaraboyina)
 ## Links
 
 https://ergoblink.geethg.com/
+https://devpost.com/software/ergoblink
 
 
 
