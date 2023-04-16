@@ -25,7 +25,7 @@ Overall, this app provides a comprehensive solution for promoting healthy screen
 1. install all dependencies
 2. run each cell in Align.ipynb
 
-### Dependencies
+### Main Dependencies
 
 1. mediapipe
 2. numpy
@@ -44,7 +44,9 @@ Overall, this app provides a comprehensive solution for promoting healthy screen
 ### Contributors
 
 Geeth Santhoshvaran Gunnampalli (Github: thetechie7)
+
 Alexander Nim Chin (GitHub: Alexander-N-Chin)
+
 Nikhil Maraboyina (Github: nmaraboyina)
 
 
