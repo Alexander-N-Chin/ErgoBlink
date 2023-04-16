@@ -10,7 +10,7 @@ App detects bad posture & blinking patterns, reminds you to take breaks, for hea
 - [Description](#description)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## description
 
