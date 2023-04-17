@@ -51,6 +51,8 @@ Alexander Nim Chin (GitHub: Alexander-N-Chin)
 
 Nikhil Maraboyina (Github: nmaraboyina)
 
+Jahnzeb Bastaki (Github: jahnzeb-bastaki)
+
 ## Links
 
 https://ergoblink.geethg.com/
